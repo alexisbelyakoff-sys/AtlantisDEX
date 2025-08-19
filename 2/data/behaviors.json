@@ -1,1 +1,1 @@
-{"uid":"b1a8273437954620fa374b796ffaacdd","children":[{"name":"swapTokens","uid":"1810187a5ed8f9d8","parentUid":"b1a8273437954620fa374b796ffaacdd","status":"passed","time":{"start":1755630560215,"stop":1755631091434,"duration":531219},"flaky":false,"newFailed":false,"newPassed":true,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"name":"behaviors"}
+{"uid":"b1a8273437954620fa374b796ffaacdd","children":[],"name":"behaviors"}
